@@ -1,4 +1,4 @@
-// Based on Attraction2D.pde example from Toxi physics lybrari.
+// Based on Attraction2D.pde example from Toxi physics library.
 
 // it starts with a black screen. 
 // it takes some seconds to initiate all the particles.
